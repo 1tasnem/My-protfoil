@@ -126,3 +126,19 @@ main section{
     margin-top:130px;
     margin-bottom:130px;
 }
+.resume-container{
+    display: flex;
+    gap:24px;
+}
+.experience-description,.experience-description{
+    color:#474747;
+}
+.experience-sub-title{
+    font-size:20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+
+}
+.resume hr{
+    margin: 30px 5px;
+}
